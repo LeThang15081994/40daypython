@@ -1,0 +1,7 @@
+1. conda --version
+2. conda env list
+3. conda create --name {name} python={version}
+4. conda activate
+5. conda disactivate
+6. pip list
+7. pip install {libary}
