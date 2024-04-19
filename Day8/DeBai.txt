@@ -1,0 +1,2 @@
+- Hôm nay chúng ta sẽ học cách sử dụng hàm emumerate nhé. Hàm này có thể được dùng trong bước chuyển text thành number.
+- Các bạn xem video và code lại ví dụ mẫu nhé

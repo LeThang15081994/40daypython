@@ -1,0 +1,2 @@
+- Hôm nay chúng ta sẽ học về transpose và summation trong Numpy/PyTorch /TensorFlow.
+- Bài ngày hôm nay yêu cầu các bạn đọc hiểu, với nội dung dài 5 trang.

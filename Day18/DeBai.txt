@@ -1,0 +1,1 @@
+- Hôm nay chúng ta ôn lại việc dùng List Comprehension và học về Tuple.

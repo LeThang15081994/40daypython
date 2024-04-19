@@ -1,0 +1,2 @@
+ Hôm nay bài tập yêu cầu chúng ta fill dữ liệu missing. Các bạn có thể dùng linear search ở day-13 để tìm kiếm vị trí missing. 
+ Các bạn đọc mô tả để hiểu về 2 cách thức phổ biến để tính giá trị cho các vị trí missing nhé

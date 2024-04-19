@@ -1,0 +1,1 @@
+- Hôm nay chúng ta ôn lại phần List; cụ thể là cách thêm, xóa, sửa một List.

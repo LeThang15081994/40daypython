@@ -1,0 +1,2 @@
+- Hôm nay chúng ta sẽ học mảng đa chiều; trong Numpy gọi là NDArray, còn trong PyTorch và TensorFlow gọi là Tensor.
+- Bài ngày hôm nay yêu cầu các bạn đọc hiểu, với nội dung dài 4 trang.

@@ -1,0 +1,2 @@
+- Hôm nay chúng ta sẽ ôn lại phần String trong Python nhé các bạn.
+- Trong NLP, trước khi data vào mô hình, chúng ta có thể dùng các hàm trong String để xử lý text đâu vào ở bước text vectorization.

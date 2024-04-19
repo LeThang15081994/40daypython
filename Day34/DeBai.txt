@@ -1,0 +1,1 @@
+- Hôm nay chúng ta làm quen với hàm Gaussian qua bài toán giảm nhiễu dùng thư viện OpenCV

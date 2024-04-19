@@ -1,0 +1,2 @@
+- Hôm nay chúng ta sẽ học các hàm cơ bản trong Numpy/PyTorch /TensorFlow để tạo Tensor.
+- Bài ngày hôm nay yêu cầu các bạn đọc hiểu, với nội dung dài 3 trang.

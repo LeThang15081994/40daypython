@@ -1,0 +1,1 @@
+- Hôm nay bài tập yêu cầu chúng ta cài linear search. Các bạn đọc mô tả để hiểu về linear search và cài theo yêu cầu của bài tập nhé.

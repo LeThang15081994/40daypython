@@ -1,0 +1,2 @@
+- Hôm nay chúng ta sẽ học một vài hàm quan trọng khi làm việc với tensor như arange hay random.
+- Bài ngày hôm nay yêu cầu các bạn đọc hiểu, với nội dung dài 5 trang.

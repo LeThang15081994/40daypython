@@ -1,0 +1,4 @@
+Hôm nay chúng ta sẽ học qua một thư viện gần đây được sử dụng nhiều để lưu thông tin log
+Bài hôm nay đòi hỏi các bạn đã làm qua bài toán linear regression
+Trong trường hợp các bạn chưa viết về LR, các bạn đọc qua tài liệu để biết wandb có tác dụng gì là được rồi. 
+Các bạn gõ 'Done' khi đã hiểu các ý chính của tại liệu trên nhé.

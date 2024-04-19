@@ -1,0 +1,3 @@
+- Hôm nay chúng ta sẽ làm bài tập, giải bài phương trình bậc 2.
+
+- Trước khi giải, các bạn ôn lại phần if/else và function (cách đặt tên, tham số đầu vào của hàm và từ khóa return) nhé

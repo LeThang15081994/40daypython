@@ -1,0 +1,1 @@
+- Hôm nay chúng ta làm bài tập về xử lý text trong NLP dùng list.

@@ -1,0 +1,2 @@
+- Hôm nay chúng ta học cách thao tác file text dùng Python cơ bản và dùng Pandas.
+ - Link file csv để làm bài tập phần Pandas các bạn download ở link sau. Phần này các bạn search thêm các cách đọc file csv trong Pandas nhé.

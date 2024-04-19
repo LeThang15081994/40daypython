@@ -1,0 +1,1 @@
+- Hôm nay chúng ta làm bài tập, yêu cầu sử dụng làm sort với List và thao tác các phần tử trong List.

@@ -1,0 +1,1 @@
+- Hôm nay chúng ta sẽ làm một bài test về Python cơ bản. Bài test gồm 33 câu (hơi dài), nên các bạn làm bài này trong 2 ngày nhé.

@@ -1,0 +1,2 @@
+- Hôm nay chúng ta sẽ học về Switch/Case, một cách thức thay thế If/Else
+- Các bạn xem video và code lại ví dụ mẫu nhé

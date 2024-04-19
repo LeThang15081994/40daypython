@@ -1,0 +1,1 @@
+- Hôm nay chúng ta ôn lại cách dùng OpenCV để thao tác với dữ liệu ảnh.

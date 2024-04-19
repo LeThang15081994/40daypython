@@ -1,0 +1,4 @@
+Hôm nay là buổi học cuối. 
+Ad gửi các bạn một tài liệu tương đối dài. Tuy vậy, cái này bỏ thời gian đọc là hiểu thôi.
+-Các bạn tìm hiểu về Github cơ bản, rồi để kết quả 40 ngày học lên Github nhé. 
+Điều này sẽ ghi nhận quá trình rèn luyện của các bạn, và tốt cho tương lai trong việc chứng minh năng lực về Python.

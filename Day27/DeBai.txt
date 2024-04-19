@@ -1,0 +1,1 @@
+- Hôm nay chúng ta học cách dùng thư viện Underthesea cho các ứng dụng bên NLP.

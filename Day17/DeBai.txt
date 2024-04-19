@@ -1,0 +1,1 @@
+- Hôm nay chúng ta ôn lại việc dùng List để biểu diễn dữ liệu 2D. Các bạn đọc 2 file đính kèm và làm bài tập trong 2 file này nhé.

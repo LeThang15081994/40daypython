@@ -1,0 +1,1 @@
+- Hôm nay chúng ta ôn lại vòng lặp while và làm 3 bài tập về while.

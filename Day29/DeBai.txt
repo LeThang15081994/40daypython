@@ -1,0 +1,1 @@
+- Hôm nay chúng ta học các thư viện phổ biến, dùng cho các ứng dụng với dữ liệu âm thanh.

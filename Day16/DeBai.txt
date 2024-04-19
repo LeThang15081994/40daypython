@@ -1,0 +1,2 @@
+- Bài tập nay đòi hỏi nhiều thao tác nên ad post trước. Các bạn làm tàn tàn hôm nay và thứ 2 nhé.
+- Video hướng dẫn các bạn từng bước triển khai một ứng dụng dùng Streamlit

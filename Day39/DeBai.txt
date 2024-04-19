@@ -1,0 +1,1 @@
+ Hôm nay chúng ta sẽ học qua thư viện type-hints, giúp code trở nên dễ đọc hơn

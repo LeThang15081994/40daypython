@@ -1,0 +1,3 @@
+- Hôm nay chúng ta sẽ ôn về List trong Python
+
+- Các bạn xem lại cách truy cập 1 phần tử trong List dùng thông tin index, và cách lấy các phần tử của List dùng vòng lặp For

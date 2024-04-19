@@ -1,0 +1,1 @@
+- Hôm nay chúng ta học cách xử lý text dùng Python cơ bản
