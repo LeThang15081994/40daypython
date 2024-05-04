@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-05-04T13:09:22.652048",
+    "startedAt": "2024-05-04T13:09:20.183823",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/LeThang15081994/40daypython.git",
+        "commit": "78b0a2a1251a942b452649eb97a66187cd6d58fb"
+    },
+    "email": "lesythang1581994@gmail.com",
+    "root": "D:/4_Course/1_2023Aio/8_40_Day_Python_Practice",
+    "host": "lesythang",
+    "username": "ADMIN",
+    "executable": "C:\\Users\\ADMIN\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.75780868530273,
+            "used": 271.3835144042969
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650 SUPER",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.910964965820312
+    }
+}
